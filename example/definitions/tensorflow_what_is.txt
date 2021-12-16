@@ -1,0 +1,6 @@
+TensorFlow is Google's open source AI framework
+for machine learning and high performance numerical computation.
+TensorFlow is a Python library that invokes C++ to construct
+and execute dataflow graphs. It supports many classification
+and regression algorithms, and more generally, deep learning
+and neural networks.
